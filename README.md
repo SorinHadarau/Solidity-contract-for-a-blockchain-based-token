@@ -1,1 +1,2 @@
 # Solidity-contract-for-a-blockchain-based-token
+This contract creates a token with a name, symbol, and number of decimal places, as well as a total supply and a mapping of addresses to token balances. The constructor function is called when the contract is deployed and sets the initial token supply, name, and symbol. The transfer function allows for the transfer of tokens from one address to another, as long as the sender has enough tokens and the value being transferred is greater than zero.
